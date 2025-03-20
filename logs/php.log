@@ -1,0 +1,2535 @@
+[Thu Mar 20 05:46:43 2025] PHP 8.4.5 Development Server (http://0.0.0.0:8080) started
+[Thu Mar 20 05:46:46 2025] 127.0.0.1:35434 Accepted
+[Thu Mar 20 05:46:46 2025] 127.0.0.1:35434 [200]: GET /index.html
+[Thu Mar 20 05:46:46 2025] 127.0.0.1:35434 Closing
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35443 Accepted
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35443 [200]: GET /www.lansha.top
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35443 Closing
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35444 Accepted
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35445 Accepted
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35444 [200]: GET /js/location.js
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35445 [200]: GET /pdd.png
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35444 Closing
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35445 Closing
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35446 Accepted
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35446 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35446 Closing
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35447 Accepted
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35447 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:07 2025] 127.0.0.1:35447 Closing
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35448 Accepted
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35449 Accepted
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35448 [200]: GET /www.lansha.top
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35448 Closing
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35450 Accepted
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35449 [200]: GET /js/location.js
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35450 [200]: GET /pdd.png
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35449 Closing
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35450 Closing
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35451 Accepted
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35451 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35451 Closing
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35452 Accepted
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35452 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:08 2025] 127.0.0.1:35452 Closing
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35465 Accepted
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35465 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35465 Closing
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35466 Accepted
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35466 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35466 Closing
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35467 Accepted
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35468 Accepted
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35467 [200]: GET /js/location.js
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35468 [200]: GET /pdd.png
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35467 Closing
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35468 Closing
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35469 Accepted
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35469 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35469 Closing
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35470 Accepted
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35470 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:13 2025] 127.0.0.1:35470 Closing
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35471 Accepted
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35471 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35471 Closing
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35472 Accepted
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35472 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35472 Closing
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35473 Accepted
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35474 Accepted
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35473 [200]: GET /js/location.js
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35474 [200]: GET /pdd.png
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35473 Closing
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35474 Closing
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35475 Accepted
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35475 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35475 Closing
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35476 Accepted
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35476 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:15 2025] 127.0.0.1:35476 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35477 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35477 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35477 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35478 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35478 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35478 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35479 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35480 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35479 [200]: GET /js/location.js
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35480 [200]: GET /pdd.png
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35479 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35480 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35481 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35481 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35481 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35482 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35482 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35482 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35483 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35483 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35483 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35484 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35484 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35484 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35485 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35486 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35485 [200]: GET /js/location.js
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35486 [200]: GET /pdd.png
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35485 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35486 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35487 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35487 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35487 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35488 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35488 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35488 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35489 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35489 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35489 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35490 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35490 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35490 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35491 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35492 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35491 [200]: GET /js/location.js
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35492 [200]: GET /pdd.png
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35491 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35492 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35493 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35493 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35493 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35494 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35494 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35494 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35495 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35495 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35495 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35496 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35496 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35496 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35497 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35498 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35497 [200]: GET /js/location.js
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35498 [200]: GET /pdd.png
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35497 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35498 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35499 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35499 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35499 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35500 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35500 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35500 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35501 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35501 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35501 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35502 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35502 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35502 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35503 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35504 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35503 [200]: GET /js/location.js
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35504 [200]: GET /pdd.png
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35503 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35504 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35505 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35505 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35505 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35506 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35506 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35506 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35507 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35507 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35507 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35508 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35508 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35508 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35509 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35510 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35509 [200]: GET /js/location.js
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35510 [200]: GET /pdd.png
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35509 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35510 Closing
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35511 Accepted
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35511 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:16 2025] 127.0.0.1:35511 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35512 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35512 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35512 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35513 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35513 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35513 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35514 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35514 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35514 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35515 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35516 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35515 [200]: GET /js/location.js
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35516 [200]: GET /pdd.png
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35515 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35516 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35517 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35517 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35517 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35518 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35518 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35518 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35519 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35519 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35519 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35520 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35520 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35520 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35521 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35522 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35521 [200]: GET /js/location.js
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35522 [200]: GET /pdd.png
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35521 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35522 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35523 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35523 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35523 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35524 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35524 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35524 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35525 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35525 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35525 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35526 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35526 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35526 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35527 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35528 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35527 [200]: GET /js/location.js
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35528 [200]: GET /pdd.png
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35527 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35528 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35529 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35529 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35529 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35530 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35530 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35530 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35531 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35531 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35531 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35532 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35532 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35532 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35533 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35534 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35533 [200]: GET /js/location.js
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35534 [200]: GET /pdd.png
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35533 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35534 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35535 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35535 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35535 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35536 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35536 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35536 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35537 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35537 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35537 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35538 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35538 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35538 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35539 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35540 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35539 [200]: GET /js/location.js
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35540 [200]: GET /pdd.png
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35539 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35540 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35541 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35541 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35541 Closing
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35542 Accepted
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35542 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:17 2025] 127.0.0.1:35542 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35543 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35543 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35543 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35544 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35544 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35544 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35545 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35546 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35545 [200]: GET /js/location.js
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35546 [200]: GET /pdd.png
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35545 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35546 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35547 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35547 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35547 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35548 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35548 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35548 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35549 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35549 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35549 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35550 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35550 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35550 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35551 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35552 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35551 [200]: GET /js/location.js
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35552 [200]: GET /pdd.png
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35551 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35552 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35553 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35553 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35553 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35554 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35554 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35554 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35555 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35555 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35555 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35556 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35556 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35556 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35557 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35558 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35557 [200]: GET /js/location.js
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35558 [200]: GET /pdd.png
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35557 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35558 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35559 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35559 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35559 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35560 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35560 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35560 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35561 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35561 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35561 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35562 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35562 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35562 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35563 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35564 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35563 [200]: GET /js/location.js
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35564 [200]: GET /pdd.png
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35563 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35564 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35565 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35565 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35565 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35566 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35566 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35566 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35567 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35567 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35567 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35568 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35568 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35568 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35569 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35570 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35569 [200]: GET /js/location.js
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35570 [200]: GET /pdd.png
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35569 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35570 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35571 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35571 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35571 Closing
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35572 Accepted
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35572 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:18 2025] 127.0.0.1:35572 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35573 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35573 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35573 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35574 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35574 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35574 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35575 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35576 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35575 [200]: GET /js/location.js
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35576 [200]: GET /pdd.png
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35575 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35576 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35577 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35577 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35577 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35578 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35578 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35578 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35579 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35579 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35579 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35580 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35580 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35580 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35581 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35582 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35581 [200]: GET /js/location.js
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35582 [200]: GET /pdd.png
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35581 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35582 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35583 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35583 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35583 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35584 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35584 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35584 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35585 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35585 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35585 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35586 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35586 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35586 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35587 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35588 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35587 [200]: GET /js/location.js
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35588 [200]: GET /pdd.png
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35587 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35588 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35589 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35589 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35589 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35590 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35590 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35590 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35591 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35591 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35591 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35592 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35592 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35592 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35593 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35594 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35593 [200]: GET /js/location.js
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35594 [200]: GET /pdd.png
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35593 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35594 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35595 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35595 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35595 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35596 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35596 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35596 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35597 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35597 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35597 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35598 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35598 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35598 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35599 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35601 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35599 [200]: GET /js/location.js
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35601 [200]: GET /pdd.png
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35599 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35601 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35602 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35602 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35602 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35603 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35603 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35603 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35604 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35604 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35604 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35605 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35605 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35605 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35606 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35607 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35606 [200]: GET /js/location.js
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35607 [200]: GET /pdd.png
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35606 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35607 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35608 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35608 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35608 Closing
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35609 Accepted
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35609 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:19 2025] 127.0.0.1:35609 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35610 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35610 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35610 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35611 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35611 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35611 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35612 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35613 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35612 [200]: GET /js/location.js
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35613 [200]: GET /pdd.png
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35612 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35613 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35614 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35614 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35614 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35615 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35615 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35615 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35617 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35617 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35617 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35618 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35618 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35618 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35619 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35620 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35619 [200]: GET /js/location.js
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35620 [200]: GET /pdd.png
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35619 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35620 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35621 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35621 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35621 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35622 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35622 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35622 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35623 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35623 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35623 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35624 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35624 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35624 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35625 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35626 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35625 [200]: GET /js/location.js
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35626 [200]: GET /pdd.png
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35625 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35626 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35627 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35627 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35627 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35628 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35628 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35628 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35629 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35629 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35629 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35630 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35630 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35630 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35631 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35632 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35631 [200]: GET /js/location.js
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35632 [200]: GET /pdd.png
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35631 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35632 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35633 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35633 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35633 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35634 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35634 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35634 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35635 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35635 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35635 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35636 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35636 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35636 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35637 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35638 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35637 [200]: GET /js/location.js
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35638 [200]: GET /pdd.png
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35637 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35638 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35639 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35639 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35639 Closing
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35640 Accepted
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35640 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:20 2025] 127.0.0.1:35640 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35643 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35643 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35643 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35644 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35644 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35644 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35645 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35646 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35645 [200]: GET /js/location.js
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35646 [200]: GET /pdd.png
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35645 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35646 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35647 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35647 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35647 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35648 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35648 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35648 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35649 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35649 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35649 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35650 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35650 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35650 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35651 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35652 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35651 [200]: GET /js/location.js
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35652 [200]: GET /pdd.png
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35651 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35652 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35653 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35653 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35653 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35654 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35654 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35654 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35655 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35655 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35655 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35656 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35656 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35656 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35657 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35658 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35657 [200]: GET /js/location.js
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35658 [200]: GET /pdd.png
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35657 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35658 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35659 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35659 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35659 Closing
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35660 Accepted
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35660 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:24 2025] 127.0.0.1:35660 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35661 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35661 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35661 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35662 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35662 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35662 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35663 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35664 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35663 [200]: GET /js/location.js
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35664 [200]: GET /pdd.png
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35663 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35664 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35665 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35665 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35665 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35666 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35666 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35666 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35667 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35667 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35667 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35668 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35668 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35668 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35669 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35670 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35669 [200]: GET /js/location.js
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35670 [200]: GET /pdd.png
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35669 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35670 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35671 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35671 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35671 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35672 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35672 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35672 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35673 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35673 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35673 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35674 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35674 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35674 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35675 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35676 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35675 [200]: GET /js/location.js
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35676 [200]: GET /pdd.png
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35675 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35676 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35677 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35677 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35677 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35678 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35678 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35678 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35679 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35679 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35679 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35680 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35680 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35680 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35681 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35682 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35681 [200]: GET /js/location.js
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35682 [200]: GET /pdd.png
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35681 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35682 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35683 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35683 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35683 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35684 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35684 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35684 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35685 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35685 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35685 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35686 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35686 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35686 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35687 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35688 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35687 [200]: GET /js/location.js
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35688 [200]: GET /pdd.png
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35687 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35688 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35689 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35689 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35689 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35690 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35690 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35690 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35691 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35691 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35691 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35692 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35692 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35692 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35693 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35694 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35693 [200]: GET /js/location.js
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35694 [200]: GET /pdd.png
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35693 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35694 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35695 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35695 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35695 Closing
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35696 Accepted
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35696 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:25 2025] 127.0.0.1:35696 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35697 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35697 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35697 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35698 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35698 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35698 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35699 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35700 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35699 [200]: GET /js/location.js
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35700 [200]: GET /pdd.png
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35699 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35700 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35701 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35701 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35701 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35702 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35702 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35702 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35703 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35703 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35703 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35704 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35704 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35704 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35705 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35706 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35705 [200]: GET /js/location.js
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35706 [200]: GET /pdd.png
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35705 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35706 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35707 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35707 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35707 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35708 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35708 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35708 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35709 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35709 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35709 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35710 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35710 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35710 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35711 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35712 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35711 [200]: GET /js/location.js
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35712 [200]: GET /pdd.png
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35711 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35712 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35713 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35713 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35713 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35714 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35714 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35714 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35715 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35715 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35715 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35716 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35716 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35716 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35717 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35718 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35717 [200]: GET /js/location.js
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35718 [200]: GET /pdd.png
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35717 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35718 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35719 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35719 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35719 Closing
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35720 Accepted
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35720 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:26 2025] 127.0.0.1:35720 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35721 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35721 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35721 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35722 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35722 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35722 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35723 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35724 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35723 [200]: GET /js/location.js
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35724 [200]: GET /pdd.png
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35723 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35724 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35725 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35725 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35725 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35726 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35726 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35726 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35727 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35727 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35727 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35728 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35728 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35728 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35729 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35730 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35729 [200]: GET /js/location.js
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35730 [200]: GET /pdd.png
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35729 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35730 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35731 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35731 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35731 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35732 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35732 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35732 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35733 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35733 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35733 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35734 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35734 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35734 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35735 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35736 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35735 [200]: GET /js/location.js
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35736 [200]: GET /pdd.png
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35735 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35736 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35737 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35737 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35737 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35738 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35738 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35738 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35739 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35739 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35739 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35740 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35740 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35740 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35741 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35742 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35741 [200]: GET /js/location.js
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35742 [200]: GET /pdd.png
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35741 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35742 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35743 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35743 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35743 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35744 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35744 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35744 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35745 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35745 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35745 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35746 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35746 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35746 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35747 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35748 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35747 [200]: GET /js/location.js
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35748 [200]: GET /pdd.png
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35747 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35748 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35749 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35749 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35749 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35750 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35750 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35750 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35751 Accepted
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35751 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35751 Closing
+[Thu Mar 20 05:47:27 2025] 127.0.0.1:35752 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35752 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35752 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35753 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35754 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35753 [200]: GET /js/location.js
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35754 [200]: GET /pdd.png
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35753 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35754 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35755 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35755 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35755 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35756 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35756 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35756 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35757 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35757 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35757 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35758 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35758 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35758 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35759 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35760 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35759 [200]: GET /js/location.js
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35760 [200]: GET /pdd.png
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35759 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35760 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35761 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35761 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35761 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35762 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35762 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35762 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35763 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35763 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35763 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35764 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35764 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35764 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35765 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35766 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35765 [200]: GET /js/location.js
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35766 [200]: GET /pdd.png
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35765 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35766 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35767 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35767 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35767 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35768 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35768 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35768 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35769 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35769 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35769 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35770 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35770 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35770 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35771 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35772 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35771 [200]: GET /js/location.js
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35772 [200]: GET /pdd.png
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35771 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35772 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35773 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35773 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35773 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35774 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35774 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35774 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35775 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35775 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35775 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35776 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35776 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35776 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35777 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35778 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35777 [200]: GET /js/location.js
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35778 [200]: GET /pdd.png
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35777 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35778 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35779 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35779 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35779 Closing
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35780 Accepted
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35780 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:28 2025] 127.0.0.1:35780 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35781 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35781 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35781 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35782 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35782 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35782 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35783 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35784 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35783 [200]: GET /js/location.js
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35784 [200]: GET /pdd.png
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35783 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35784 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35785 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35785 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35785 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35786 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35786 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35786 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35787 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35787 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35787 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35788 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35788 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35788 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35789 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35790 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35789 [200]: GET /js/location.js
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35790 [200]: GET /pdd.png
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35789 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35790 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35791 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35791 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35791 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35792 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35792 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35792 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35793 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35793 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35793 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35794 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35794 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35794 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35795 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35796 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35795 [200]: GET /js/location.js
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35796 [200]: GET /pdd.png
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35795 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35796 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35797 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35797 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35797 Closing
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35798 Accepted
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35798 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:29 2025] 127.0.0.1:35798 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35799 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35799 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35799 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35800 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35800 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35800 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35801 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35802 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35801 [200]: GET /js/location.js
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35802 [200]: GET /pdd.png
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35801 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35802 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35803 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35803 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35803 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35804 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35804 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35804 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35805 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35805 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35805 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35806 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35806 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35806 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35807 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35808 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35807 [200]: GET /js/location.js
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35808 [200]: GET /pdd.png
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35807 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35808 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35809 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35809 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35809 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35810 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35810 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35810 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35811 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35811 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35811 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35812 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35812 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35812 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35813 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35814 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35813 [200]: GET /js/location.js
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35814 [200]: GET /pdd.png
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35813 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35814 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35815 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35815 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35815 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35816 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35816 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35816 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35817 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35817 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35817 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35818 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35818 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35818 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35819 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35820 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35819 [200]: GET /js/location.js
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35820 [200]: GET /pdd.png
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35819 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35820 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35821 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35821 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35821 Closing
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35822 Accepted
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35822 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:30 2025] 127.0.0.1:35822 Closing
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35823 Accepted
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35823 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35823 Closing
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35824 Accepted
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35824 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35824 Closing
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35825 Accepted
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35826 Accepted
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35825 [200]: GET /js/location.js
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35826 [200]: GET /pdd.png
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35825 Closing
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35826 Closing
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35827 Accepted
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35827 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35827 Closing
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35828 Accepted
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35828 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:31 2025] 127.0.0.1:35828 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35829 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35829 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35829 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35830 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35830 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35830 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35831 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35832 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35831 [200]: GET /js/location.js
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35832 [200]: GET /pdd.png
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35831 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35832 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35833 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35833 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35833 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35834 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35834 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35834 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35835 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35835 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35835 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35836 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35836 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35836 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35837 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35838 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35837 [200]: GET /js/location.js
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35838 [200]: GET /pdd.png
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35837 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35838 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35839 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35839 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35839 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35840 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35840 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35840 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35841 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35841 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35841 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35842 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35842 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35842 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35843 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35844 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35843 [200]: GET /js/location.js
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35844 [200]: GET /pdd.png
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35843 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35844 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35845 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35845 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35845 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35846 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35846 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35846 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35847 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35847 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35847 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35848 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35848 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35848 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35849 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35850 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35849 [200]: GET /js/location.js
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35850 [200]: GET /pdd.png
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35849 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35850 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35851 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35851 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35851 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35852 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35852 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35852 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35854 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35854 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35854 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35855 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35855 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35855 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35856 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35857 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35856 [200]: GET /js/location.js
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35857 [200]: GET /pdd.png
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35856 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35857 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35858 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35858 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35858 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35859 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35859 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35859 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35860 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35860 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35860 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35861 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35861 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35861 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35862 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35863 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35862 [200]: GET /js/location.js
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35863 [200]: GET /pdd.png
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35862 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35863 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35864 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35864 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35864 Closing
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35865 Accepted
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35865 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:32 2025] 127.0.0.1:35865 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35866 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35866 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35866 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35867 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35867 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35867 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35868 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35869 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35868 [200]: GET /js/location.js
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35869 [200]: GET /pdd.png
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35868 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35869 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35870 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35870 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35870 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35871 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35871 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35871 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35872 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35872 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35872 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35873 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35873 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35873 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35874 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35875 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35874 [200]: GET /js/location.js
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35875 [200]: GET /pdd.png
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35874 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35875 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35876 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35876 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35876 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35877 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35877 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35877 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35878 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35878 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35878 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35879 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35879 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35879 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35880 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35881 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35880 [200]: GET /js/location.js
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35881 [200]: GET /pdd.png
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35880 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35881 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35882 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35882 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35882 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35883 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35883 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35883 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35884 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35884 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35884 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35885 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35885 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35885 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35886 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35887 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35886 [200]: GET /js/location.js
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35887 [200]: GET /pdd.png
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35886 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35887 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35888 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35888 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35888 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35889 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35889 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35889 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35890 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35890 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35890 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35891 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35891 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35891 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35892 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35893 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35892 [200]: GET /js/location.js
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35893 [200]: GET /pdd.png
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35892 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35893 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35894 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35894 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35894 Closing
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35895 Accepted
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35895 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:33 2025] 127.0.0.1:35895 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35896 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35896 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35896 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35897 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35898 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35897 [200]: GET /js/location.js
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35898 [200]: GET /pdd.png
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35897 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35898 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35899 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35899 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35899 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35900 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35900 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35900 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35901 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35901 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35901 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35902 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35903 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35902 [200]: GET /js/location.js
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35903 [200]: GET /pdd.png
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35902 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35903 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35904 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35904 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35904 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35905 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35905 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35905 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35906 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35907 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35906 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35906 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35908 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35907 [200]: GET /js/location.js
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35908 [200]: GET /pdd.png
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35907 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35908 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35909 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35909 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35909 Closing
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35910 Accepted
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35910 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:34 2025] 127.0.0.1:35910 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35911 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35911 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35911 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35912 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35913 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35912 [200]: GET /js/location.js
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35913 [200]: GET /pdd.png
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35912 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35913 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35914 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35914 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35914 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35915 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35915 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35915 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35916 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35916 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35916 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35917 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35918 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35917 [200]: GET /js/location.js
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35918 [200]: GET /pdd.png
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35917 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35918 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35919 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35919 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35919 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35920 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35920 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35920 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35921 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35921 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35921 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35922 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35923 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35922 [200]: GET /js/location.js
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35923 [200]: GET /pdd.png
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35922 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35923 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35924 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35924 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35924 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35925 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35925 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35925 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35926 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35926 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35926 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35927 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35928 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35927 [200]: GET /js/location.js
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35928 [200]: GET /pdd.png
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35927 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35928 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35929 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35929 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35929 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35930 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35930 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35930 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35931 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35931 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35931 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35932 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35933 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35932 [200]: GET /js/location.js
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35933 [200]: GET /pdd.png
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35932 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35933 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35934 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35934 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35934 Closing
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35935 Accepted
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35935 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:35 2025] 127.0.0.1:35935 Closing
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35936 Accepted
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35936 [200]: GET /
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35936 Closing
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35937 Accepted
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35938 Accepted
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35937 [200]: GET /js/location.js
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35938 [200]: GET /pdd.png
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35937 Closing
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35938 Closing
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35939 Accepted
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35939 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35939 Closing
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35940 Accepted
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35940 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:38 2025] 127.0.0.1:35940 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35951 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35951 [200]: GET /
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35951 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35952 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35953 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35952 [200]: GET /js/location.js
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35953 [200]: GET /pdd.png
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35952 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35953 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35954 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35954 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35954 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35955 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35955 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35955 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35956 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35957 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35956 [200]: GET /
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35956 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35958 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35957 [200]: GET /js/location.js
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35958 [200]: GET /pdd.png
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35957 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35958 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35959 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35959 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35959 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35960 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35960 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35960 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35961 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35962 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35961 [200]: GET /
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35961 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35963 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35962 [200]: GET /js/location.js
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35963 [200]: GET /pdd.png
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35962 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35963 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35964 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35964 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35964 Closing
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35965 Accepted
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35965 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:40 2025] 127.0.0.1:35965 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35966 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35966 [200]: GET /
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35966 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35967 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35968 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35967 [200]: GET /js/location.js
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35968 [200]: GET /pdd.png
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35967 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35968 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35969 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35969 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35969 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35970 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35970 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35970 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35971 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35971 [200]: GET /
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35971 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35972 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35973 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35972 [200]: GET /js/location.js
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35973 [200]: GET /pdd.png
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35972 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35973 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35974 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35974 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35974 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35975 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35975 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35975 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35976 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35976 [200]: GET /
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35976 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35977 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35978 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35977 [200]: GET /js/location.js
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35978 [200]: GET /pdd.png
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35977 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35978 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35979 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35979 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35979 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35980 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35980 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35980 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35981 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35981 [200]: GET /
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35981 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35982 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35983 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35982 [200]: GET /js/location.js
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35983 [200]: GET /pdd.png
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35982 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35983 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35984 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35984 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35984 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35985 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35985 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35985 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35986 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35986 [200]: GET /
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35986 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35987 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35988 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35987 [200]: GET /js/location.js
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35988 [200]: GET /pdd.png
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35987 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35988 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35989 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35989 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35989 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35990 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35990 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35990 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35991 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35991 [200]: GET /
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35991 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35992 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35993 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35992 [200]: GET /js/location.js
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35993 [200]: GET /pdd.png
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35992 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35993 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35994 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35994 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35994 Closing
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35995 Accepted
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35995 [200]: GET /favicon.ico
+[Thu Mar 20 05:47:41 2025] 127.0.0.1:35995 Closing
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36016 Accepted
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36016 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36016 Closing
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36017 Accepted
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36017 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36017 Closing
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36018 Accepted
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36019 Accepted
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36018 [200]: GET /js/location.js
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36019 [200]: GET /pdd.png
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36018 Closing
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36019 Closing
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36020 Accepted
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36020 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36020 Closing
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36021 Accepted
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36021 [200]: GET /favicon.ico
+[Thu Mar 20 05:48:18 2025] 127.0.0.1:36021 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36022 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36022 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36022 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36023 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36023 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36023 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36024 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36025 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36024 [200]: GET /js/location.js
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36025 [200]: GET /pdd.png
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36024 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36025 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36026 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36026 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36026 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36027 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36027 [200]: GET /favicon.ico
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36027 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36028 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36028 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36028 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36029 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36029 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36029 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36030 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36031 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36030 [200]: GET /js/location.js
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36031 [200]: GET /pdd.png
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36030 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36031 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36032 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36032 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36032 Closing
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36033 Accepted
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36033 [200]: GET /favicon.ico
+[Thu Mar 20 05:48:19 2025] 127.0.0.1:36033 Closing
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36118 Accepted
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36118 [200]: GET /www.lansha.top
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36118 Closing
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36120 Accepted
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36120 [200]: GET /js/location.js
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36120 Closing
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36121 Accepted
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36121 [200]: GET /pdd.png
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36121 Closing
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36124 Accepted
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36124 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36124 Closing
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36125 Accepted
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36125 [200]: GET /favicon.ico
+[Thu Mar 20 05:50:29 2025] 127.0.0.1:36125 Closing
+[Thu Mar 20 05:50:30 2025] 127.0.0.1:36127 Accepted
+[Thu Mar 20 05:50:30 2025] 127.0.0.1:36127 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:30 2025] 127.0.0.1:36127 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36130 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36130 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36130 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36133 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36133 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36133 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36134 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36134 [200]: GET /js/location.js
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36134 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36135 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36135 [200]: GET /pdd.png
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36135 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36139 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36139 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36139 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36140 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36140 [200]: GET /favicon.ico
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36140 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36142 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36142 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36142 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36145 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36145 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36145 Closing
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36148 Accepted
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36148 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:31 2025] 127.0.0.1:36148 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36149 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36149 [200]: GET /js/location.js
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36149 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36150 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36150 [200]: GET /pdd.png
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36150 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36152 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36152 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36152 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36154 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36154 [200]: GET /favicon.ico
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36154 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36156 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36156 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36156 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36158 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36158 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36158 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36161 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36161 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36161 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36162 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36162 [200]: GET /js/location.js
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36162 Closing
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36163 Accepted
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36163 [200]: GET /pdd.png
+[Thu Mar 20 05:50:32 2025] 127.0.0.1:36163 Closing
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36166 Accepted
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36166 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36166 Closing
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36167 Accepted
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36167 [200]: GET /favicon.ico
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36167 Closing
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36170 Accepted
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36170 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36170 Closing
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36173 Accepted
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36173 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36173 Closing
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36176 Accepted
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36176 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:33 2025] 127.0.0.1:36176 Closing
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36177 Accepted
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36177 [200]: GET /js/location.js
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36177 Closing
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36178 Accepted
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36178 [200]: GET /pdd.png
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36178 Closing
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36181 Accepted
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36181 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36181 Closing
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36182 Accepted
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36182 [200]: GET /favicon.ico
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36182 Closing
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36184 Accepted
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36184 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36184 Closing
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36187 Accepted
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36187 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36187 Closing
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36188 Accepted
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36188 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:34 2025] 127.0.0.1:36188 Closing
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36191 Accepted
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36191 [200]: GET /js/location.js
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36191 Closing
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36192 Accepted
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36192 [200]: GET /pdd.png
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36192 Closing
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36195 Accepted
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36195 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36195 Closing
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36196 Accepted
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36196 [200]: GET /favicon.ico
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36196 Closing
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36198 Accepted
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36198 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36198 Closing
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36201 Accepted
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36201 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36201 Closing
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36202 Accepted
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36202 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:50:35 2025] 127.0.0.1:36202 Closing
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36205 Accepted
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36205 [200]: GET /eee.eee.eee
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36205 Closing
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36206 Accepted
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36206 [200]: POST /result_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php:24
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php(24): fwrite(false, '{"status":"succ...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\result_handler.php on line 24
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36206 Closing
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36209 Accepted
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36209 [200]: GET /js/location.js
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36209 Closing
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36210 Accepted
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36210 [200]: GET /pdd.png
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36210 Closing
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36213 Accepted
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36213 [200]: POST /info_handler.php - Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, false given in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php:57
+Stack trace:
+#0 G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php(57): fwrite(false, '{"platform":"Wi...')
+#1 {main}
+  thrown in G:\蓝鲨最高资料\极客\网安\web安全漏洞\社会工程学\seeker-master\template\pdd\info_handler.php on line 57
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36213 Closing
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36214 Accepted
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36214 [200]: GET /favicon.ico
+[Thu Mar 20 05:50:36 2025] 127.0.0.1:36214 Closing

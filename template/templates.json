@@ -1,0 +1,29 @@
+{
+    "templates": [{
+            "name": "谷歌登录",
+            "dir_name": "gdrive",
+            "import_file": "mod_gdrive"
+        },
+        {
+            "name": "谷歌验证码",
+            "dir_name": "captcha",
+            "import_file": "mod_captcha"
+        },
+        {
+            "name": "拼多多登录",
+            "dir_name": "pdd",
+            "import_file": "mod_pdd"
+        },
+        {
+            "name": "拼多多助力",
+            "dir_name": "pdd_zhuli",
+            "import_file": "mod_pdd_zhuli"
+        },
+        {
+            "name": "自定义链接预览",
+            "dir_name": "custom_og_tags",
+            "import_file": "mod_custom_og_tags"
+        }
+
+    ]
+}

